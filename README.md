@@ -1,6 +1,10 @@
 Redmine gitmike theme
 ==============
 
+## CITI 用自訂樣式
+2016/8/30: 強化單引號包起來的字串顯示
+
+
 This is github-like theme for Redmine.
 It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com.
 
